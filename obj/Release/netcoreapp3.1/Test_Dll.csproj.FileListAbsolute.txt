@@ -1,0 +1,13 @@
+C:\Users\prog\source\repos\Test_Dll\bin\Release\netcoreapp3.1\Test_Dll.exe
+C:\Users\prog\source\repos\Test_Dll\bin\Release\netcoreapp3.1\Test_Dll.deps.json
+C:\Users\prog\source\repos\Test_Dll\bin\Release\netcoreapp3.1\Test_Dll.runtimeconfig.json
+C:\Users\prog\source\repos\Test_Dll\bin\Release\netcoreapp3.1\Test_Dll.runtimeconfig.dev.json
+C:\Users\prog\source\repos\Test_Dll\bin\Release\netcoreapp3.1\Test_Dll.dll
+C:\Users\prog\source\repos\Test_Dll\bin\Release\netcoreapp3.1\Test_Dll.pdb
+C:\Users\prog\source\repos\Test_Dll\obj\Release\netcoreapp3.1\Test_Dll.csprojAssemblyReference.cache
+C:\Users\prog\source\repos\Test_Dll\obj\Release\netcoreapp3.1\Test_Dll.csproj.CoreCompileInputs.cache
+C:\Users\prog\source\repos\Test_Dll\obj\Release\netcoreapp3.1\Test_Dll.AssemblyInfoInputs.cache
+C:\Users\prog\source\repos\Test_Dll\obj\Release\netcoreapp3.1\Test_Dll.AssemblyInfo.cs
+C:\Users\prog\source\repos\Test_Dll\obj\Release\netcoreapp3.1\Test_Dll.dll
+C:\Users\prog\source\repos\Test_Dll\obj\Release\netcoreapp3.1\Test_Dll.pdb
+C:\Users\prog\source\repos\Test_Dll\obj\Release\netcoreapp3.1\Test_Dll.genruntimeconfig.cache
